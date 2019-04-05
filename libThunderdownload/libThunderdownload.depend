@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1515132400 source:c:\users\shikii\desktop\jet_project\libthunderdownload\main.cpp
+	"ThunderHelper.h"
+
+1515132400 c:\users\shikii\desktop\jet_project\libthunderdownload\thunderhelper.h
+	<iostream>
+	"DllLibrary.h"
+	"CharSet.h"
+	"XLStructs.h"
+
+1512977250 c:\users\shikii\desktop\jet_project\libthunderdownload\dlllibrary.h
+	<windows.h>
+
+1512462269 c:\users\shikii\desktop\jet_project\libthunderdownload\charset.h
+	<Windows.h>
+	<tchar.h>
+
+1512978781 c:\users\shikii\desktop\jet_project\libthunderdownload\xlstructs.h
+	<Windows.h>
+

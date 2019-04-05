@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b5f7f26-d4d7-45da-8b19-1a38af21135e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="XLPlatform_CS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TCPComunicationTower.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TCPComunicationTower.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="196" column="25" lean-forward="true" selection-start-line="196" selection-start-column="25" selection-end-line="196" selection-end-column="25" />
+              <folding>
+                <marker date="1518233572583" expanded="false" signature="6:223" ph="..." />
+                <marker date="1518233572583" expanded="true" signature="245:7877" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="296:7875" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="624:1119" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="998:1050" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="1065:1109" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="1196:1287" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="1354:1453" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="1519:2040" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="1577:2029" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="2122:5197" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="2514:2650" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="2743:2829" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="2860:3139" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="3191:4546" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="3333:3443" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="3488:3598" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="3644:3754" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="3799:3909" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="3954:4064" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="4109:4219" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="4264:4374" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="4420:4530" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="4577:4860" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="4877:5013" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="5234:5266" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="5300:5321" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="5380:7633" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="5649:5953" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="5714:5839" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="6288:6448" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="6353:6434" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="6591:7514" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="6659:7475" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="6709:7298" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="6943:7055" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="7342:7452" ph="{...}" />
+                <marker date="1518233572583" expanded="true" signature="7703:7869" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>timer</find>
+      <find>DoRefreshLayout</find>
+      <find>DmInvoke</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TargetTable</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MainPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/934FC4C1-E39A-4E04-83C4-8FC4958AE440/f4/4567a140/BitVector32.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Config_Form.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/R.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HugDB/PostgresqlDB/PostgreSQLDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TCPComunicationTower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/PageBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TestAPP/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/WinFormApp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Managers/AppManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/R.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/XLPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/RegTool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/DynamicLib.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/FontTool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6768B90D-9DD9-4248-A8A5-D5C759813416/fd/17050901/Application.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/Tools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HugDB/SQLServer/SQLServerDB .cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56B95B3C-F3B3-461D-9D83-C07192CFD566/63/6411cac7/Activator.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6768B90D-9DD9-4248-A8A5-D5C759813416/9f/17fa37fc/Form.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/NetCofig/CommunicationForm.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="C:/Windows/Microsoft.NET/Framework/v4.0.30319/Microsoft.Common.targets" />
+        <option value="$PROJECT_DIR$/NativeDownloader.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/TCP_IP/TCPServer.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/Timer.cs" />
+        <option value="$PROJECT_DIR$/XLPlatform.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/R.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/WinFormApp.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/NetServiceBase.cs" />
+        <option value="$PROJECT_DIR$/XLPlatform.csproj" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Embedded/DBClientBase.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Embedded/DBServerBase.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/NetServiceHub.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/NetServiceHubBase.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/CommunicationManager.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/TCPProperty.cs" />
+        <option value="$PROJECT_DIR$/R.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/PageBase.cs" />
+        <option value="$PROJECT_DIR$/MainPage.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Pipe/PipeAdapter.cs" />
+        <option value="$PROJECT_DIR$/../TestAPP/Program.cs" />
+        <option value="$PROJECT_DIR$/../TestAPP/Form1.cs" />
+        <option value="$PROJECT_DIR$/../../TestCBX_Binding/MainForm.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Layers/ErrorWnd.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Pipe/Relatist.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Simplify/LevelDB.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Simplify/Compactor.cs" />
+        <option value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/DBEngines/SQLServer/SQLServerDB .cs" />
+        <option value="$PROJECT_DIR$/HugDB/Class1.cs" />
+        <option value="$PROJECT_DIR$/TCPComunicationTower.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-37" />
+    <option name="y" value="370" />
+    <option name="width" value="1227" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="XLPlatform_CS (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/Shikii_Vision_App_Framework.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/XLPlatform.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/XLPlatform.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+    </configuration>
+    <configuration name="NetCofig" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/NetCofig/bin/Debug/NetCofig.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/NetCofig/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../Shikii_Vision_App_Framework/NetCofig/NetCofig.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+    </configuration>
+    <configuration name="TestCBX_Binding" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../TestCBX_Binding/bin/Debug/TestCBX_Binding.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../TestCBX_Binding/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../TestCBX_Binding/TestCBX_Binding.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.NetCofig" />
+      <item index="2" class="java.lang.String" itemvalue=".NET Project.TestCBX_Binding" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.TestCBX_Binding" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.NetCofig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b5f7f26-d4d7-45da-8b19-1a38af21135e" name="Default" comment="" />
+      <created>1512984710572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512984710572</updated>
+      <workItem from="1512984712885" duration="3781000" />
+      <workItem from="1512988857992" duration="1328000" />
+      <workItem from="1514463644406" duration="2461000" />
+      <workItem from="1514544065302" duration="312000" />
+      <workItem from="1514648201942" duration="1399000" />
+      <workItem from="1514863464091" duration="720000" />
+      <workItem from="1514864428546" duration="1037000" />
+      <workItem from="1514985818643" duration="61000" />
+      <workItem from="1514986342668" duration="564000" />
+      <workItem from="1515125016685" duration="8043000" />
+      <workItem from="1515142999473" duration="3767000" />
+      <workItem from="1515162792117" duration="1278000" />
+      <workItem from="1515203822311" duration="2415000" />
+      <workItem from="1515211243013" duration="2234000" />
+      <workItem from="1515233635216" duration="1002000" />
+      <workItem from="1515235366287" duration="768000" />
+      <workItem from="1515294347109" duration="940000" />
+      <workItem from="1515296087405" duration="2333000" />
+      <workItem from="1515389179576" duration="4719000" />
+      <workItem from="1515494744964" duration="175000" />
+      <workItem from="1515923510245" duration="2769000" />
+      <workItem from="1515985603241" duration="2233000" />
+      <workItem from="1516758041789" duration="1566000" />
+      <workItem from="1518748874608" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46002000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1641791" sideWeight="0.4941957" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28555554" sideWeight="0.5181237" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3298791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48333332" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16452442" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28333333" sideWeight="0.48187634" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13965885" sideWeight="0.5058043" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3298791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39444444" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28555554" sideWeight="0.5181237" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3298791" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3298791" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16897655" sideWeight="0.4941957" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31666666" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28555554" sideWeight="0.48187634" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13965885" sideWeight="0.5058043" order="1" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../../TestCBX_Binding/MainForm.cs</url>
+          <line>41</line>
+          <properties documentPath="$PROJECT_DIR$/../../TestCBX_Binding/MainForm.cs" />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="46" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="XLPlatform_CS" type="b2602c69:ProjectViewProjectNode" />
+        <item name="riderModule" type="47feb1d3:ProjectViewModuleNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Form1.resx" />
+    <entry file="file://C:/Windows/Microsoft.NET/Framework/v4.0.30319/Microsoft.Common.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2366">
+          <caret line="3948" column="9" lean-forward="true" selection-start-line="3948" selection-start-column="9" selection-end-line="3948" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6768B90D-9DD9-4248-A8A5-D5C759813416/fd/17050901/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="1058" column="6" lean-forward="false" selection-start-line="1058" selection-start-column="6" selection-end-line="1058" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/934FC4C1-E39A-4E04-83C4-8FC4958AE440/f4/4567a140/BitVector32.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6768B90D-9DD9-4248-A8A5-D5C759813416/9f/17fa37fc/Form.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="151" column="6" lean-forward="false" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/FontTool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/DynamicLib.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1552">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/Tools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1534">
+          <caret line="280" column="39" lean-forward="false" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Tool/RegTool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/R.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Form1.Designer.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/Managers/AppManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/56B95B3C-F3B3-461D-9D83-C07192CFD566/63/6411cac7/Activator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="95" column="86" lean-forward="false" selection-start-line="95" selection-start-column="86" selection-end-line="95" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/Timer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/WinFormApp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Embedded/DBServerBase.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/CommunicationManager.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/NetServiceHub.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/NetServiceHubBase.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/TCPProperty.cs" />
+    <entry file="file://$PROJECT_DIR$/R.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XLPlatform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/应用基建/组件/PageBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XLPlatform.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/DBManager.csproj" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/NetCofig/CommunicationForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="121" column="11" lean-forward="false" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestAPP/Form1.cs" />
+    <entry file="file://$PROJECT_DIR$/../TestAPP/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/DBEngines/SQLite/SqliteDB.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Embedded/NativeDBBase.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Embedded/KeyValueDB.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Pipe/PipeAdapter.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Embedded/DBClientBase.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Network/TCP_IP/TCPServer.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Root/DBRoot.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Pipe/Relatist.cs" />
+    <entry file="file://$PROJECT_DIR$/Config_Form.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2926">
+          <caret line="164" column="14" lean-forward="false" selection-start-line="164" selection-start-column="14" selection-end-line="164" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Pipe/Binding.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Simplify/LevelDB.cs" />
+    <entry file="file://$PROJECT_DIR$/../../TestCBX_Binding/MainForm.cs" />
+    <entry file="file://$PROJECT_DIR$/HugDB/PostgresqlDB/PostgreSQLDB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HugDB/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/WPF/Pipe/DataPipe.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Simplify/Compactor.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Layers/ErrorWnd.cs" />
+    <entry file="file://$PROJECT_DIR$/HugDB/SQLServer/SQLServerDB .cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Shikii_Vision_App_Framework/数据库/Tipper.cs" />
+    <entry file="file://C:/Program Files (x86)/MSBuild/14.0/Bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="2721" column="48" lean-forward="true" selection-start-line="2721" selection-start-column="48" selection-end-line="2721" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPComunicationTower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="196" column="25" lean-forward="true" selection-start-line="196" selection-start-column="25" selection-end-line="196" selection-end-column="25" />
+          <folding>
+            <marker date="1518233572583" expanded="false" signature="6:223" ph="..." />
+            <marker date="1518233572583" expanded="true" signature="245:7877" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="296:7875" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="624:1119" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="998:1050" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="1065:1109" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="1196:1287" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="1354:1453" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="1519:2040" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="1577:2029" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="2122:5197" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="2514:2650" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="2743:2829" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="2860:3139" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="3191:4546" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="3333:3443" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="3488:3598" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="3644:3754" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="3799:3909" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="3954:4064" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="4109:4219" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="4264:4374" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="4420:4530" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="4577:4860" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="4877:5013" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="5234:5266" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="5300:5321" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="5380:7633" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="5649:5953" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="5714:5839" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="6288:6448" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="6353:6434" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="6591:7514" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="6659:7475" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="6709:7298" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="6943:7055" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="7342:7452" ph="{...}" />
+            <marker date="1518233572583" expanded="true" signature="7703:7869" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

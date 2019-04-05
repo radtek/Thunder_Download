@@ -1,0 +1,10 @@
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\bin\Debug\shikii.dotNetLab.DBManger.dll
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\bin\Debug\shikii.dotNetLab.DBManger.pdb
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\obj\Debug\HugDB.csprojResolveAssemblyReference.cache
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\obj\Debug\HugDB.MySQLDB.MySQLDBRes.resources
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\obj\Debug\HugDB.csproj.GenerateResource.Cache
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\obj\Debug\HugDB.csproj.CoreCompileInputs.cache
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\bin\Debug\shikii.dotNetLab.HugDB.dll
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\bin\Debug\shikii.dotNetLab.HugDB.pdb
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\obj\Debug\shikii.dotNetLab.HugDB.dll
+C:\Users\Shikii\Desktop\CPP_Projects\XLPlatform_CS\HugDB\obj\Debug\shikii.dotNetLab.HugDB.pdb

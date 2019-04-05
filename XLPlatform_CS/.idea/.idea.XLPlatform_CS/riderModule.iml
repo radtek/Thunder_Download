@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../TestAPP" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../../Shikii_Vision_App_Framework/应用基建" />
+    <content url="file://$MODULE_DIR$/../../../../Shikii_Vision_App_Framework/数据库/嵌入型" />
+    <content url="file://$MODULE_DIR$/../../../../TestCBX_Binding/TestCBX_Binding.csproj" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

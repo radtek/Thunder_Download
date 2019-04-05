@@ -1,0 +1,12 @@
+EXPORTS
+    BeginDownload @1
+    Dispose @2
+    Download @3
+    DownloadingPercent @4
+    EndDownload @5
+    GatherDownloadInfo @6
+    InitXunLei @7
+    IsCreatingFile @8
+    ProvideFileSize @9
+    ProvideSpeed @10
+    ResourceHot @11

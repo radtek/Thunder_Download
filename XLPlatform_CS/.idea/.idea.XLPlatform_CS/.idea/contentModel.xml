@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\shikii\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_XLPlatform_CS.-2143984396.00" t="ExcludeRecursive" />
+    <e p="C:\Users\shikii\Desktop\CPP_Projects\TestAPP" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="TestAPP.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\shikii\Desktop\CPP_Projects\XLPlatform_CS" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Config_Form.cs" t="Include" />
+      <e p="Config_Form.Designer.cs" t="Include" />
+      <e p="Config_Form.resx" t="Include" />
+      <e p="MainPage.cs" t="Include" />
+      <e p="MainPage.Designer.cs" t="Include" />
+      <e p="MainPage.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="R.cs" t="Include" />
+      <e p="TCPComunicationTower.cs" t="Include" />
+      <e p="XLPlatform.cs" t="Include" />
+      <e p="XLPlatform.csproj" t="IncludeRecursive" />
+      <e p="XLPlatform_CS.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\shikii\Desktop\Shikii_Vision_App_Framework\应用基建" t="IncludeRecursive">
+      <e p="AppCommon.csproj" t="IncludeRecursive" />
+      <e p="AppComRes.Designer.cs" t="Include" />
+      <e p="AppComRes.resx" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Managers" t="Include">
+        <e p="AppManager.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="R.cs" t="Include" />
+      <e p="Resources" t="Include">
+        <e p="ICSharpCode.SharpZipLib.dll" t="Include" />
+        <e p="NetCofig.exe" t="Include" />
+      </e>
+      <e p="Shikii_Vision_App_Framework.sln" t="Include" />
+      <e p="Sign In" t="Include">
+        <e p="Frm_Adiministrator.cs" t="Include" />
+        <e p="Frm_Adiministrator.designer.cs" t="Include" />
+        <e p="Frm_Adiministrator.resx" t="Include" />
+        <e p="Frm_LogIn.cs" t="Include" />
+        <e p="Frm_LogIn.Designer.cs" t="Include" />
+        <e p="Frm_LogIn.resx" t="Include" />
+        <e p="Frm_Register.cs" t="Include" />
+        <e p="Frm_Register.Designer.cs" t="Include" />
+        <e p="Frm_Register.resx" t="Include" />
+        <e p="Frm_SetPassword.cs" t="Include" />
+        <e p="Frm_SetPassword.Designer.cs" t="Include" />
+        <e p="Frm_SetPassword.resx" t="Include" />
+      </e>
+      <e p="Tool" t="Include">
+        <e p="DynamicLib.cs" t="Include" />
+        <e p="FontTool.cs" t="Include" />
+        <e p="RegTool.cs" t="Include" />
+        <e p="ResDll.cs" t="Include" />
+        <e p="Tools.cs" t="Include" />
+        <e p="Traverse.cs" t="Include" />
+        <e p="Zip.cs" t="Include" />
+      </e>
+      <e p="组件" t="Include">
+        <e p="PageBase.cs" t="Include" />
+        <e p="Timer.cs" t="Include" />
+        <e p="WinFormApp.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\shikii\Desktop\Shikii_Vision_App_Framework\数据库\嵌入型" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DBEngines" t="Include">
+        <e p="FireBirdDB" t="Include">
+          <e p="DBClient.cs" t="Include" />
+          <e p="DBServer.cs" t="Include" />
+          <e p="FireBirdDB.cs" t="Include" />
+          <e p="FireBirdDBRes.Designer.cs" t="Include" />
+          <e p="FireBirdDBRes.resx" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="fbembed.dll" t="Include" />
+            <e p="FirebirdSql.Data.FirebirdClient.dll" t="Include" />
+            <e p="ib_util.dll" t="Include" />
+            <e p="icudt30.dll" t="Include" />
+            <e p="icuin30.dll" t="Include" />
+            <e p="icuuc30.dll" t="Include" />
+            <e p="shikii" t="Include" />
+          </e>
+        </e>
+        <e p="SQLCE" t="Include">
+          <e p="Resources" t="Include">
+            <e p="shikii" t="Include" />
+            <e p="sqlceca40.dll" t="Include" />
+            <e p="sqlcecompact40.dll" t="Include" />
+            <e p="sqlceer40EN.dll" t="Include" />
+            <e p="sqlceme40.dll" t="Include" />
+            <e p="sqlceqp40.dll" t="Include" />
+            <e p="sqlcese40.dll" t="Include" />
+            <e p="System.Data.SqlServerCe.dll" t="Include" />
+          </e>
+          <e p="SqlCEDB.cs" t="Include" />
+          <e p="SqlCERes.Designer.cs" t="Include" />
+          <e p="SqlCERes.resx" t="Include" />
+        </e>
+        <e p="SQLite" t="Include">
+          <e p="DBClient.cs" t="Include" />
+          <e p="DBServer.cs" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="shikii" t="Include" />
+            <e p="System.Data.SQLite.dll" t="Include" />
+          </e>
+          <e p="SqliteDB.cs" t="Include" />
+          <e p="SqliteDBManager.cs" t="Include" />
+          <e p="SqliteDBResource.Designer.cs" t="Include" />
+          <e p="SqliteDBResource.resx" t="Include" />
+        </e>
+      </e>
+      <e p="DBManager.csproj" t="IncludeRecursive" />
+      <e p="Embedded" t="Include">
+        <e p="DBClientBase.cs" t="Include" />
+        <e p="DBServerBase.cs" t="Include" />
+        <e p="KeyValueDB.cs" t="Include" />
+        <e p="NativeDBBase.cs" t="Include" />
+      </e>
+      <e p="Exception" t="Include">
+        <e p="UIConsole.cs" t="Include" />
+      </e>
+      <e p="Layers" t="Include">
+        <e p="ErrorWnd.cs" t="Include" />
+        <e p="ErrorWnd.Designer.cs" t="Include" />
+        <e p="ErrorWnd.resx" t="Include" />
+      </e>
+      <e p="log.txt" t="Include" />
+      <e p="Network" t="Include">
+        <e p="CommunicationManager.cs" t="Include" />
+        <e p="Factory" t="Include">
+          <e p="TCPFactoryServer.cs" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="TClient.cs" t="Include" />
+          <e p="TServer.cs" t="Include" />
+        </e>
+        <e p="NetServiceHub.cs" t="Include" />
+        <e p="NetServiceHubBase.cs" t="Include" />
+        <e p="SerialPort" t="Include">
+          <e p="SerialPort.cs" t="Include" />
+        </e>
+        <e p="TCP_IP" t="Include">
+          <e p="Signals.cs" t="Include" />
+          <e p="TCPBase.cs" t="Include" />
+          <e p="TCPClient.cs" t="Include" />
+          <e p="TCPServer.cs" t="Include" />
+        </e>
+        <e p="TCPProperty.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Pipe" t="Include">
+        <e p="Relatist.cs" t="Include" />
+      </e>
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Root" t="Include">
+        <e p="DBRoot.cs" t="Include" />
+      </e>
+      <e p="Simplify" t="Include">
+        <e p="Compactor.cs" t="Include" />
+        <e p="LevelDB.cs" t="Include" />
+      </e>
+      <e p="Tipper.cs" t="Include" />
+      <e p="TrueType_C" t="Include">
+        <e p="Double_Ptr.cs" t="Include" />
+        <e p="Pointer.cs" t="Include" />
+      </e>
+      <e p="WPF" t="Include">
+        <e p="Embedded" t="Include">
+          <e p="KeyValueDB.cs" t="Include" />
+          <e p="NativeDBBase.cs" t="Include" />
+        </e>
+        <e p="Pipe" t="Include">
+          <e p="DataPipe.cs" t="Include" />
+          <e p="DataPipeInfo.cs" t="Include" />
+        </e>
+        <e p="Root" t="Include">
+          <e p="DBRoot.cs" t="Include" />
+        </e>
+        <e p="Simplify" t="Include">
+          <e p="Compactor.cs" t="Include" />
+          <e p="LevelDB.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\shikii\Desktop\TestCBX_Binding\TestCBX_Binding.csproj" t="IncludeRecursive" />
+  </component>
+</project>
